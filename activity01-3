@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>First Activity From BootCamp</title>
+    </head>
+    <body>
+        <h1>First Activity From Bootcamp!</h1>
+        <h2></h2>
+        <p></p>
+        <a id= "article"  href="https://www.kb.blackbaud.co.uk/articles/Article/109322" target="_blank" >Help in a new Tab</a> 
+        <br>
+        <a id= "article" style="font-weight: bold;" href="https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Pink_Floyd">List of Songs</a>
+        <br>
+        <a>Placeholder</a>
+        <br>
+        <h3>Sandwhich Ingredients</h3>
+        <ul>
+            <li>Bread</li>
+            <li>Spreads/sauce</li>
+            <li>Veggies</li>
+            <li>Protein</li>
+            <li>Avocado</li>
+            <li>Cheese</li>
+        </ul>
+    </body>
+</html>
